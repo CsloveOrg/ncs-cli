@@ -1,6 +1,6 @@
 {
   "name": "node",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "lian.js",
   "dependencies": {
@@ -12,6 +12,7 @@
     "babel-preset-env": "^1.7.0",
     "babel-preset-latest-node": "^2.0.2",
     "babel-register": "^6.26.0",
+    "color": "^3.1.0",
     "commander": "^2.19.0",
     "download-git-repo": "^1.1.0",
     "ora": "^3.0.0"
